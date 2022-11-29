@@ -16,6 +16,7 @@ Here is the link to our data:
 Here is an interesting video from the global fishing watch company describing their tool and potential usages. 
 https://twitter.com/i/status/1466607715350769665
 
+<img width="560" alt="Screenshot 2022-11-28 at 20 12 08" src="https://user-images.githubusercontent.com/110002614/204437845-87b9ac57-6944-45d7-ae79-b035ee656554.png">
 
 ##**Installation**
 

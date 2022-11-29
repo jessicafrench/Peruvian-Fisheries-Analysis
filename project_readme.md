@@ -2,7 +2,7 @@
 
 
 
-# ** The Fishing Team**
+# ** The Fishing Team ** 
 
 ##**Description:**
 For this first stage of the project we will select and interesting dataset, and create some coding lines to visualize and understand the metadata. In this case we are choosing a dataset from Earth Engine to called “GFW (Global Fishing Watch) Daily Fishing Hours”. The values are displayed per band for each finishing activity depending of each gear type. The units are hours. 
@@ -32,6 +32,8 @@ If you are unsure of how to use Google Earth Engine, or you are having problems 
 https://developers.google.com/earth-engine/guides/getstarted
 
 ##**Metadata Display and Basic Visualization**
+ 
+ <img width="655" alt="Screenshot 2022-11-28 at 20 13 33" src="https://user-images.githubusercontent.com/110002614/204438134-ea688841-9f4b-473d-b72e-386b5c343024.png">
  
 Under the Metadata Display and Basic Visualization seccions we have provided some example commands to take a quick look at what is in your dataset, and how you can access it or index it.
 For this purpose we created a function named `get_image_ids`, which shows the ids per image. Later on the code we will use this name bands to present the data and values.

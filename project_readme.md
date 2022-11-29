@@ -4,6 +4,13 @@
 
 # **The Fishing Team** 
 
+
+## **Authors:**
+
+- Jessica French - jfrench@ucsb.edu
+- Pol Carbo Mestre - pcarbomestre@ucsb.edu
+- Javier Patrón - jpatron@ucsb.edu
+
 ## **Description:**
 
 The objective of this project is to identify and visualize what are the trends in fishing effort related to El Niño events using AIS data from Global Fishing Watch.

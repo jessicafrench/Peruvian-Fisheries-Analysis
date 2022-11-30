@@ -79,3 +79,6 @@ The contributions for this repo is open and we would like to encourage our publi
 If you have any questions reading this Repo please do not hesitate on sending us an email with your questions. Additionally there is an awesome support area from google earth engine and github that can help you or guide you.
 https://github.com/google/earthengine-api
 
+## **Click This Link to Launch the Notebook in Your Browser**
+launch with myBinder
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<path to your repo>)

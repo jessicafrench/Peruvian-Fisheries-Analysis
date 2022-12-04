@@ -1,7 +1,5 @@
 # **The Fishing Team** 
 
-#######**Click This Link to Launch the Notebook in Your Browser**
-launch with myBinder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD)
 
 ## **Authors:**

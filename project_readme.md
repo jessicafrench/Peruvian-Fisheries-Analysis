@@ -1,9 +1,8 @@
-
-
-
-
 # **The Fishing Team** 
 
+####### **Click This Link to Launch the Notebook in Your Browser**
+launch with myBinder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD)
 
 ## **Authors:**
 
@@ -13,72 +12,38 @@
 
 ## **Description:**
 
-The objective of this project is to identify and visualize what are the trends in fishing effort related to El Niño events using AIS data from Global Fishing Watch.
+The purpose of this notebook is to explore Global Fishing Watch's dataset showing daily fishing effort as inferred fishing hours daily. This notebook will show how to read in the dataset, visualize the data using google earth engine, and give an overview of how the data can be used to explore differences in fishing effort within and outside Peru's EEZ and how fishing effort is impacted by El Niño Southern Oscillation (ENSO) events.
 
-This dataset comes from the Google Earth Engine Dataset Catalog called “GFW (Global Fishing Watch) Daily Fishing Hours”. The values are displayed per band for each fishing activity depending of each gear type. The units are hours. 
-
-In this project we will specifically use this data set to explore the effect of the natural global effect of “El Niño 2015” in the fishing industry in the coast of Peru.
-
-
-Here is the link to our data:
-(https://developers.google.com/earth-engine/datasets/catalog/GFW_GFF_V1_fishing_hours)
-
-## **Visuals**
+#### **Visuals**
 Here is an interesting video from the global fishing watch company describing their tool and potential usages. 
 https://twitter.com/i/status/1466607715350769665
 
 <img width="560" alt="Screenshot 2022-11-28 at 20 12 08" src="https://user-images.githubusercontent.com/110002614/204437845-87b9ac57-6944-45d7-ae79-b035ee656554.png">
 
-## **Installation**
+## Contents:
+- peruvian-fisheries-effort.ipynb: Jupyter notebook contains all information and description of the project including GEE Access, Data visualization, Metadata description, and our case example.
+- environment.yml: This is our conda environment file used to create our Binder environment. Click on the file to see the list of dependencies and channels we prioritize for the project.
 
-For this project we will use our normal python 3 environment, and we have selected the following libraries for our project:
-
-	ee - (Earth Engine)
-	geemap - (Google Earth Engine)
-	Pandas - (Basic python package)
-	Matplotlib.pyplot - (Basic python package)
-	Numpy - (Basic python package)
-
+#### **Installation of GEE**
 
 If you are unsure of how to use Google Earth Engine, or you are having problems initiating the `ee.Authenticate()`, and `ee.Initialize()`, please follow the steps under the webpage of Google Earth Devlopers to help you set the first steps.
 
 https://developers.google.com/earth-engine/guides/getstarted
 
-## **Metadata Display and Basic Visualization**
- 
+## **Datasets**
  <img width="655" alt="Screenshot 2022-11-28 at 20 13 33" src="https://user-images.githubusercontent.com/110002614/204438134-ea688841-9f4b-473d-b72e-386b5c343024.png">
  
-Under the Metadata Display and Basic Visualization seccions we have provided some example commands to take a quick look at what is in your dataset, and how you can access it or index it.
-
-For this purpose we created a function named `get_image_ids`, which shows the bands per image. Later on the code we will use this name bands to present the data and values.
-
-	drifting_longlines
-	fixed_gear
-	other_fishing
-	purse_seines
-	squid_jigger
-	trawlers
-
-For the “Basic Visualization” we are showing what the data looks like. Furthermore,  we have specified in our region of interest which is the Peruvian coast and created some graphs and images to visualize the impact of a warmer Pacific Ocean from El Niño 2015 to the fishing effort trends.
+ 
+The Global Fishing Watch (GFW) provides an open platform to access Automatic Identification System (AIS) data from commercial fishing activities. In this project we are using their API to explore the data and use it for our case example.
+ 
+Global Fishing watch - https://developers.google.com/earth-engine/datasets/catalog/GFW_GFF_V1_fishing_hours
 
 
-### Gear Type Graph descritpion:
+## **Roadmap and Contribuation**
+There is a potential second stage of this project, were we could use the dataset that contains all of the vessel tracks from the Global Fishing Watch Daily Vessel Hours, and potentially find a niche regarding security coast guard for specific regions or even MPAs. 
 
-### Images (gif) description:
-
-
-
-## **Roadmap**
-There is a potential second stage of this project, were we could use the dataset that contains all of the vessel tracks from the Global Fishing Watch Daily Vessel Hours, and potentially find a niche regarding security coast guard for specific regions or even MPAs.
-
-## **Contributing**
 The contributions for this repo is open and we would like to encourage our public people to wranggle and explore this dataset.
 
 ## **Support**
-
 If you have any questions reading this Repo please do not hesitate on sending us an email with your questions. Additionally there is an awesome support area from google earth engine and github that can help you or guide you.
 https://github.com/google/earthengine-api
-
-## **Click This Link to Launch the Notebook in Your Browser**
-launch with myBinder
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<path to your repo>)

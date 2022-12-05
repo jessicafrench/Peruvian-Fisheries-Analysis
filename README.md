@@ -4,9 +4,9 @@
 
 ## **Authors:**
 
-- Jessica French - jfrench@ucsb.edu
-- Pol Carbó Mestre - pcarbomestre@ucsb.edu
-- Javier Patrón - jpatron@ucsb.edu
+- Jessica French - jfrench@bren.ucsb.edu
+- Pol Carbó Mestre - pcarbomestre@bren.ucsb.edu
+- Javier Patrón - jpatron@bren.ucsb.edu
 
 ## **Description:**
 

@@ -16,7 +16,9 @@ The purpose of this notebook is to explore Global Fishing Watch's dataset showin
 Here is an interesting video from the global fishing watch company describing their tool and potential usages. 
 https://twitter.com/i/status/1466607715350769665
 
+<p align="center">
 <img width="560" alt="Screenshot 2022-11-28 at 20 12 08" src="https://user-images.githubusercontent.com/110002614/204437845-87b9ac57-6944-45d7-ae79-b035ee656554.png">
+</p>
 
 ## Contents:
 - _peruvian-fisheries-effort.ipynb_: Jupyter notebook contains all information and description of the project including GEE Access, Data visualization, Metadata description, and our case example.
@@ -28,8 +30,10 @@ If you are unsure of how to use Google Earth Engine, or you are having problems 
 https://developers.google.com/earth-engine/guides/getstarted
 
 ## **Datasets**
- <img width="655" alt="Screenshot 2022-11-28 at 20 13 33" src="https://user-images.githubusercontent.com/110002614/204438134-ea688841-9f4b-473d-b72e-386b5c343024.png">
- 
+<p align="center">
+<img width="655" alt="Screenshot 2022-11-28 at 20 13 33" src="https://user-images.githubusercontent.com/110002614/204438134-ea688841-9f4b-473d-b72e-386b5c343024.png">
+</p>
+
  
 The Global Fishing Watch (GFW) provides an open platform to access Automatic Identification System (AIS) data from commercial fishing activities. In this project we are using their API to explore the data and use it for our case example. For more information and details check our .ipynb notebook.
  

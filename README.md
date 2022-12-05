@@ -48,7 +48,7 @@ Global Fishing watch - https://developers.google.com/earth-engine/datasets/catal
 6. Kroodsma, David A., Juan Mayorga, Timothy Hochberg, Nathan A. Miller, Kristina Boerder, Francesco Ferretti, Alex Wilson et al. "Tracking the global footprint of fisheries." Science 359, no. 6378 (2018): 904-908. DOI:10.1126/science.aao5646.
 
 ## **Roadmap and Contribuation**
-There is a potential second stage of this project, were we could use the dataset that contains all of the vessel tracks from the Global Fishing Watch Daily Vessel Hours, and potentially find a niche regarding security coast guard for specific regions or even MPAs. 
+There is a potential second stage of this project, where we could further explore the dataset to identify which international fleets are fishing in Peru's waters and evaluate the countries that have fishing agreements with Peru. Furthermore, we could delve deeper into the effects of ENSO. In this regard, we could explore additional GFW datasets (accessible through Google BigQuery) representing fishing indicators strongly influenced by El Niño.  
 
 The contributions for this repo is open and we would like to encourage our public people to wranggle and explore this dataset.
 

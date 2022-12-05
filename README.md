@@ -14,6 +14,7 @@ The purpose of this notebook is to explore Global Fishing Watch's dataset on dai
 
 #### **Visuals**
 Here is an interesting video from the Global Fishing Watch that describes their tool and potential uses:
+
 https://twitter.com/i/status/1466607715350769665
 
 <p align="center">

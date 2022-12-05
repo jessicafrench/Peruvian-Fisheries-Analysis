@@ -1,6 +1,7 @@
 # **Assessing Trends in Fishing Effort Inside and Outside Peru's EEZ Using AIS Data from Global Fishing Watch.** 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mangrove-team/HEAD)
+![Binder](https://mybinder.org/badge_logo.svg)
+(https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mangrove-team/HEAD)
 
 ## **Authors:**
 

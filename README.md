@@ -47,11 +47,11 @@ Global Fishing watch - https://developers.google.com/earth-engine/datasets/catal
 5. Global Fishing Watch Application Programming Interfaces (API) Documentation (https://globalfishingwatch.org/our-apis/documentation#introduction)
 6. Kroodsma, David A., Juan Mayorga, Timothy Hochberg, Nathan A. Miller, Kristina Boerder, Francesco Ferretti, Alex Wilson et al. "Tracking the global footprint of fisheries." Science 359, no. 6378 (2018): 904-908. DOI:10.1126/science.aao5646.
 
-## **Roadmap and Contribuation**
+## **Roadmap and Contributions**
 There is a potential second stage of this project, where we could further explore the dataset to identify which international fleets are fishing in Peru's waters and evaluate the countries that have fishing agreements with Peru. Furthermore, we could delve deeper into the effects of ENSO. In this regard, we could explore additional GFW datasets (accessible through Google BigQuery) representing fishing indicators strongly influenced by El Niño.  
 
 The contributions for this repo is open and we would like to encourage our public people to wranggle and explore this dataset.
 
 ## **Support**
-If you have any questions reading this Repo please do not hesitate on sending us an email with your questions. Additionally there is an awesome support area from google earth engine and github that can help you or guide you.
+If you have any questions reading this Repo please do not hesitate to send us an email. Additionally there is an awesome support area from google earth engine and github that can help or guide you.
 https://github.com/google/earthengine-api
